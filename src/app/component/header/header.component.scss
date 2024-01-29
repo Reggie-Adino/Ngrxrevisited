@@ -1,0 +1,22 @@
+
+header {
+    display: flex;
+    padding: 15px 25px;
+    background-color: deeppink;
+
+    p {
+      margin-left: auto;
+      position: relative;
+      color: gold;
+    }
+
+    span {
+      position: absolute;
+      top: -14px;
+      right: -4px;
+      display: block;
+      color: #555;
+      font-weight: 600;
+      font-size: 18px;
+    }
+  }
